@@ -1,0 +1,14 @@
+C:\Users\antoine\Documents\dev\c#\MiseANiveauQuete3\MiseANiveauQuete3\bin\Debug\net8.0\MiseANiveauQuete3.exe
+C:\Users\antoine\Documents\dev\c#\MiseANiveauQuete3\MiseANiveauQuete3\bin\Debug\net8.0\MiseANiveauQuete3.deps.json
+C:\Users\antoine\Documents\dev\c#\MiseANiveauQuete3\MiseANiveauQuete3\bin\Debug\net8.0\MiseANiveauQuete3.runtimeconfig.json
+C:\Users\antoine\Documents\dev\c#\MiseANiveauQuete3\MiseANiveauQuete3\bin\Debug\net8.0\MiseANiveauQuete3.dll
+C:\Users\antoine\Documents\dev\c#\MiseANiveauQuete3\MiseANiveauQuete3\bin\Debug\net8.0\MiseANiveauQuete3.pdb
+C:\Users\antoine\Documents\dev\c#\MiseANiveauQuete3\MiseANiveauQuete3\obj\Debug\net8.0\MiseANiveauQuete3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoine\Documents\dev\c#\MiseANiveauQuete3\MiseANiveauQuete3\obj\Debug\net8.0\MiseANiveauQuete3.AssemblyInfoInputs.cache
+C:\Users\antoine\Documents\dev\c#\MiseANiveauQuete3\MiseANiveauQuete3\obj\Debug\net8.0\MiseANiveauQuete3.AssemblyInfo.cs
+C:\Users\antoine\Documents\dev\c#\MiseANiveauQuete3\MiseANiveauQuete3\obj\Debug\net8.0\MiseANiveauQuete3.csproj.CoreCompileInputs.cache
+C:\Users\antoine\Documents\dev\c#\MiseANiveauQuete3\MiseANiveauQuete3\obj\Debug\net8.0\MiseANiveauQuete3.dll
+C:\Users\antoine\Documents\dev\c#\MiseANiveauQuete3\MiseANiveauQuete3\obj\Debug\net8.0\refint\MiseANiveauQuete3.dll
+C:\Users\antoine\Documents\dev\c#\MiseANiveauQuete3\MiseANiveauQuete3\obj\Debug\net8.0\MiseANiveauQuete3.pdb
+C:\Users\antoine\Documents\dev\c#\MiseANiveauQuete3\MiseANiveauQuete3\obj\Debug\net8.0\MiseANiveauQuete3.genruntimeconfig.cache
+C:\Users\antoine\Documents\dev\c#\MiseANiveauQuete3\MiseANiveauQuete3\obj\Debug\net8.0\ref\MiseANiveauQuete3.dll
