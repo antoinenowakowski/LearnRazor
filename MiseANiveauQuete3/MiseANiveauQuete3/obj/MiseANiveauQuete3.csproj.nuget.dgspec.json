@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\antoine\\Documents\\dev\\c#\\MiseANiveauQuete3\\MiseANiveauQuete3\\MiseANiveauQuete3.csproj": {}
+    "C:\\Users\\antoine\\Desktop\\dev\\c#\\Apprendre_RazorPages\\MiseANiveauQuete3\\MiseANiveauQuete3\\MiseANiveauQuete3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\antoine\\Documents\\dev\\c#\\MiseANiveauQuete3\\MiseANiveauQuete3\\MiseANiveauQuete3.csproj": {
+    "C:\\Users\\antoine\\Desktop\\dev\\c#\\Apprendre_RazorPages\\MiseANiveauQuete3\\MiseANiveauQuete3\\MiseANiveauQuete3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antoine\\Documents\\dev\\c#\\MiseANiveauQuete3\\MiseANiveauQuete3\\MiseANiveauQuete3.csproj",
+        "projectUniqueName": "C:\\Users\\antoine\\Desktop\\dev\\c#\\Apprendre_RazorPages\\MiseANiveauQuete3\\MiseANiveauQuete3\\MiseANiveauQuete3.csproj",
         "projectName": "MiseANiveauQuete3",
-        "projectPath": "C:\\Users\\antoine\\Documents\\dev\\c#\\MiseANiveauQuete3\\MiseANiveauQuete3\\MiseANiveauQuete3.csproj",
+        "projectPath": "C:\\Users\\antoine\\Desktop\\dev\\c#\\Apprendre_RazorPages\\MiseANiveauQuete3\\MiseANiveauQuete3\\MiseANiveauQuete3.csproj",
         "packagesPath": "C:\\Users\\antoine\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antoine\\Documents\\dev\\c#\\MiseANiveauQuete3\\MiseANiveauQuete3\\obj\\",
+        "outputPath": "C:\\Users\\antoine\\Desktop\\dev\\c#\\Apprendre_RazorPages\\MiseANiveauQuete3\\MiseANiveauQuete3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\antoine\\AppData\\Roaming\\NuGet\\NuGet.Config",
