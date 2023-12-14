@@ -13,13 +13,13 @@ namespace suivi_de_drones.Core
     //    Repair = -2
     //}
 
-    public class HealthStatus
+    public record HealthStatus
     {
         public static HealthStatus Ok = new HealthStatus() { Id = 0, Label = "Ok" };
         public static HealthStatus Broken = new HealthStatus() { Id = -1, Label = "Broken" };
         public static HealthStatus Repair = new HealthStatus() { Id = -2, Label = "Repair" };
 
-        public int Id { get; set; } = 0;
-        public string Label { get; set; } = default!;
+        public int Id { get; init; }
+        public string Label { get; init; } = default!;
     }
 }

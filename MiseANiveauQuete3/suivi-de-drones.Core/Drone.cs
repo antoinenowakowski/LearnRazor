@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace suivi_de_drones.Core
 {
+    /// <summary>
+    /// drone de l'application
+    /// </summary>
     public class Drone
     {
 
-        /// <summary>
-        /// Drone de l'application
-        /// </summary>
         #region Properties
 
         public string Matricule { get; set; } = String.Empty;
