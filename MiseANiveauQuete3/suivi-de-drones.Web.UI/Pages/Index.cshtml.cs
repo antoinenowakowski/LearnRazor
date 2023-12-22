@@ -15,7 +15,8 @@ namespace suivi_de_drones.Web.UI.Pages
 
         public void OnGet()
         {
-            var drone = new Drone();
+            // Drone drone = new ();
+            // List<>
         }
     }
 }

@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\suivi-de-drones.Core\suivi-de-drones.Core.Models.csproj" />
+  </ItemGroup>
+
 </Project>

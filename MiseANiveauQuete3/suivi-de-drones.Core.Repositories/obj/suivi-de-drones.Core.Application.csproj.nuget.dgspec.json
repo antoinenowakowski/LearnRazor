@@ -27,7 +27,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\antoine\\Desktop\\dev\\c#\\Apprendre_RazorPages\\MiseANiveauQuete3\\suivi-de-drones.Core\\suivi-de-drones.Core.Models.csproj": {
+                "projectPath": "C:\\Users\\antoine\\Desktop\\dev\\c#\\Apprendre_RazorPages\\MiseANiveauQuete3\\suivi-de-drones.Core\\suivi-de-drones.Core.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
