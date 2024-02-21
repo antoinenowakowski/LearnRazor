@@ -1,0 +1,15 @@
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\PatternIoc\bin\Debug\net8.0\PatternIoc.exe
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\PatternIoc\bin\Debug\net8.0\PatternIoc.deps.json
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\PatternIoc\bin\Debug\net8.0\PatternIoc.runtimeconfig.json
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\PatternIoc\bin\Debug\net8.0\PatternIoc.dll
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\PatternIoc\bin\Debug\net8.0\PatternIoc.pdb
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\PatternIoc\obj\Debug\net8.0\PatternIoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\PatternIoc\obj\Debug\net8.0\PatternIoc.AssemblyInfoInputs.cache
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\PatternIoc\obj\Debug\net8.0\PatternIoc.AssemblyInfo.cs
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\PatternIoc\obj\Debug\net8.0\PatternIoc.csproj.CoreCompileInputs.cache
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\PatternIoc\obj\Debug\net8.0\PatternIoc.sourcelink.json
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\PatternIoc\obj\Debug\net8.0\PatternIoc.dll
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\PatternIoc\obj\Debug\net8.0\refint\PatternIoc.dll
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\PatternIoc\obj\Debug\net8.0\PatternIoc.pdb
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\PatternIoc\obj\Debug\net8.0\PatternIoc.genruntimeconfig.cache
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\PatternIoc\obj\Debug\net8.0\ref\PatternIoc.dll

@@ -1,0 +1,12 @@
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core\bin\Debug\net8.0\suivi-de-drones.Core.Models.deps.json
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core\bin\Debug\net8.0\suivi-de-drones.Core.Models.dll
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core\bin\Debug\net8.0\suivi-de-drones.Core.Models.pdb
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core\obj\Debug\net8.0\suivi-de-drones.Core.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core\obj\Debug\net8.0\suivi-de-drones.Core.Models.AssemblyInfoInputs.cache
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core\obj\Debug\net8.0\suivi-de-drones.Core.Models.AssemblyInfo.cs
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core\obj\Debug\net8.0\suivi-de-drones.Core.Models.csproj.CoreCompileInputs.cache
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core\obj\Debug\net8.0\suivi-de-drones.Core.Models.sourcelink.json
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core\obj\Debug\net8.0\suivi-de-drones.Core.Models.dll
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core\obj\Debug\net8.0\refint\suivi-de-drones.Core.Models.dll
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core\obj\Debug\net8.0\suivi-de-drones.Core.Models.pdb
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core\obj\Debug\net8.0\ref\suivi-de-drones.Core.Models.dll

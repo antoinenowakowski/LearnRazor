@@ -1,0 +1,16 @@
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core.Interfaces\bin\Debug\net8.0\suivi-de-drones.Core.Interfaces.deps.json
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core.Interfaces\bin\Debug\net8.0\suivi-de-drones.Core.Interfaces.dll
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core.Interfaces\bin\Debug\net8.0\suivi-de-drones.Core.Interfaces.pdb
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core.Interfaces\bin\Debug\net8.0\suivi-de-drones.Core.Models.dll
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core.Interfaces\bin\Debug\net8.0\suivi-de-drones.Core.Models.pdb
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core.Interfaces\obj\Debug\net8.0\suivi-de-drones.Core.Interfaces.csproj.AssemblyReference.cache
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core.Interfaces\obj\Debug\net8.0\suivi-de-drones.Core.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core.Interfaces\obj\Debug\net8.0\suivi-de-drones.Core.Interfaces.AssemblyInfoInputs.cache
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core.Interfaces\obj\Debug\net8.0\suivi-de-drones.Core.Interfaces.AssemblyInfo.cs
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core.Interfaces\obj\Debug\net8.0\suivi-de-drones.Core.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core.Interfaces\obj\Debug\net8.0\suivi-de-drones.Core.Interfaces.sourcelink.json
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core.Interfaces\obj\Debug\net8.0\suivi-de-drones.Core.Interfaces.csproj.CopyComplete
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core.Interfaces\obj\Debug\net8.0\suivi-de-drones.Core.Interfaces.dll
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core.Interfaces\obj\Debug\net8.0\refint\suivi-de-drones.Core.Interfaces.dll
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core.Interfaces\obj\Debug\net8.0\suivi-de-drones.Core.Interfaces.pdb
+C:\Users\antoine\Desktop\dev\c#\Apprendre_RazorPages\MiseANiveauQuete3\suivi-de-drones.Core.Interfaces\obj\Debug\net8.0\ref\suivi-de-drones.Core.Interfaces.dll
